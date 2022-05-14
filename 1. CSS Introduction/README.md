@@ -7,11 +7,7 @@ CSS saves a lot of work. It can control the layout of multiple web pages all at 
 External stylesheets are stored in CSS files.
 CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
 
-CSS Solved a Big Problem
-HTML was NEVER intended to contain tags for formatting a web page! HTML was created to describe the content of a web page, like:
-
-<p><h1>This is a heading</h1></p>
-<p><p>This is a paragraph.</p></p>
-
-When tags like <font>, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process.
+<h3>CSS Solved a Big Problem</h3>
+HTML was NEVER intended to contain tags for formatting a web page! HTML was created to describe the content of a web page,
+When tags like <'font'>, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process.
 To solve this problem, the World Wide Web Consortium (W3C) created CSS. CSS removed the style formatting from the HTML page!
