@@ -15,4 +15,4 @@ To solve this problem, the World Wide Web Consortium (W3C) created CSS. CSS remo
 <hr>
 <h3>Syntax</h3>
 <br>
-<img src="synaxt.gif" alt="Syntax"/>
+<img src="syntax.gif" alt="Syntax">
