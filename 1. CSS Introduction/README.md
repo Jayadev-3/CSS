@@ -10,7 +10,7 @@ CSS is used to define styles for your web pages, including the design, layout an
 CSS Solved a Big Problem
 HTML was NEVER intended to contain tags for formatting a web page! HTML was created to describe the content of a web page, like:
 
-<!--<h1>This is a heading</h1>-->
+<code>1>This is a heading</h1></code>
 
 <p>This is a paragraph.</p>
 
