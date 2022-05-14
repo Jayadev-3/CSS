@@ -33,6 +33,8 @@ To group selectors, separate each selector with a comma.
 <br>
 Example<br>
 h1, h2, p {<br>
+<br>
+<img src="Simple_selectors.png" alt="Simple Selectors">
   text-align: center;<br>
   color: red;<br>
 }
