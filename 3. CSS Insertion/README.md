@@ -7,7 +7,7 @@ External CSS
 Internal CSS
 
 Inline CSS
-
+<hr>
 
 <h3>External CSS</h3>
 With an external style sheet, you can change the look of an entire website by changing just one file!
@@ -21,5 +21,5 @@ The internal style is defined inside the <style> element, inside the head sectio
 An inline style may be used to apply a unique style for a single element.
 To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
   
-  
+<hr>  
 --If some properties have been defined for the same selector (element) in different style sheets, the value from the last read style sheet will be used
