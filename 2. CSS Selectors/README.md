@@ -37,3 +37,5 @@ h1, h2, p {<br>
   color: red;<br>
 }
 <hr>
+<br>
+<img src="Simple_selectors.png" alt="Simple Selectors">
