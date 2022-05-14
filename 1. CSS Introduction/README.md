@@ -1,4 +1,4 @@
-<h1>#1. CSS Introduction</h2>
+<h1>1. CSS Introduction</h2>
 
 CSS is the language we use to style a Web page.
 CSS stands for Cascading Style Sheets
