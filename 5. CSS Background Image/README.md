@@ -7,7 +7,8 @@ By default, the image is repeated so it covers the entire element.
 CSS background-repeat
 By default, the background-image property repeats an image both horizontally and vertically.
 Some images should be repeated only horizontally or vertically, or they will look strange
-<hr>
+
+
 To repeat an image vertically, set background-repeat: repeat-y;
 
 repeated only horizontally background-repeat: repeat-x;
